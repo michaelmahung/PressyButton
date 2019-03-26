@@ -16,16 +16,16 @@ https://play.google.com/store/apps/details?id=com.elmorya.pressybutton
 
 ## Things I Learned
 
--Cross Platform Development
+- Cross Platform Development
 
--Scaling UI for multiple devices
+- Scaling UI for multiple devices
 
--Switch Statements/Do Case
+- Switch Statements/Do Case
 
--Unity Grid/Listviews
+- Unity Grid/Listviews
 
--Dynamic UI Generation
+- Dynamic UI Generation
 
--Google Play/Apple Leaderboards + Achievements
+- Google Play/Apple Leaderboards + Achievements
 
--Functions with Parameters/Return type
+- Functions with Parameters/Return type
